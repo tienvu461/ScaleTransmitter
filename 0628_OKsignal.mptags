@@ -1,0 +1,150 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+A6::141	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	143;"	d	line:143
+A7::70	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	150;"	d	line:150
+B6::125	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	144;"	d	line:144
+B7::62	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	151;"	d	line:151
+C6::237	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	138;"	d	line:138
+C7::118	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	145;"	d	line:145
+D6::211	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	139;"	d	line:139
+D7::105	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	146;"	d	line:146
+E6::188	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	140;"	d	line:140
+E7::94	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	147;"	d	line:147
+F6::177	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	141;"	d	line:141
+F7::88	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	148;"	d	line:148
+G6::158	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	142;"	d	line:142
+G7::78	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	149;"	d	line:149
+ID	D:\NOMURA\Plus_Scale_project\scale\0625test\main.c	21;"	v	line:21	file:
+IO0	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	16;"	m	line:16	struct:ra_pin_union::ra_pin_map
+IO1	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	17;"	m	line:17	struct:ra_pin_union::ra_pin_map
+IO10	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	44;"	m	line:44	struct:rb_pin_union::rb_pin_map
+IO11	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	45;"	m	line:45	struct:rb_pin_union::rb_pin_map
+IO12	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	64;"	m	line:64	struct:rc_pin_union::rc_pin_map
+IO13	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	65;"	m	line:65	struct:rc_pin_union::rc_pin_map
+IO14	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	66;"	m	line:66	struct:rc_pin_union::rc_pin_map
+IO15	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	67;"	m	line:67	struct:rc_pin_union::rc_pin_map
+IO16	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	68;"	m	line:68	struct:rc_pin_union::rc_pin_map
+IO17	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	69;"	m	line:69	struct:rc_pin_union::rc_pin_map
+IO18	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	112;"	m	line:112	struct:re_pin_union::re_pin_map
+IO19	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	113;"	m	line:113	struct:re_pin_union::re_pin_map
+IO2	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	18;"	m	line:18	struct:ra_pin_union::ra_pin_map
+IO20	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	114;"	m	line:114	struct:re_pin_union::re_pin_map
+IO22	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	88;"	m	line:88	struct:rd_pin_union::rd_pin_map
+IO23	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	89;"	m	line:89	struct:rd_pin_union::rd_pin_map
+IO24	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	90;"	m	line:90	struct:rd_pin_union::rd_pin_map
+IO25	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	91;"	m	line:91	struct:rd_pin_union::rd_pin_map
+IO26	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	92;"	m	line:92	struct:rd_pin_union::rd_pin_map
+IO27	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	93;"	m	line:93	struct:rd_pin_union::rd_pin_map
+IO28	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	94;"	m	line:94	struct:rd_pin_union::rd_pin_map
+IO29	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	95;"	m	line:95	struct:rd_pin_union::rd_pin_map
+IO3	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	19;"	m	line:19	struct:ra_pin_union::ra_pin_map
+IO4	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	20;"	m	line:20	struct:ra_pin_union::ra_pin_map
+IO5	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	21;"	m	line:21	struct:ra_pin_union::ra_pin_map
+IO6	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	40;"	m	line:40	struct:rb_pin_union::rb_pin_map
+IO7	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	41;"	m	line:41	struct:rb_pin_union::rb_pin_map
+IO8	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	42;"	m	line:42	struct:rb_pin_union::rb_pin_map
+IO9	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	43;"	m	line:43	struct:rb_pin_union::rb_pin_map
+LATA	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	27;"	v	line:27
+LATB	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	51;"	v	line:51
+LATC	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	75;"	v	line:75
+LATD	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	99;"	v	line:99
+LATE	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	123;"	v	line:123
+MasterID::"#ID0004"	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	133;"	d	line:133
+PORTA	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	26;"	v	line:26
+PORTB	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	50;"	v	line:50
+PORTC	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	74;"	v	line:74
+PORTD	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	98;"	v	line:98
+PORTE	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	122;"	v	line:122
+RA	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	24;"	m	line:24	union:ra_pin_union
+RB	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	48;"	m	line:48	union:rb_pin_union
+RC	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	72;"	m	line:72	union:rc_pin_union
+RD	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	96;"	m	line:96	union:rd_pin_union
+RDA2_isr	D:\NOMURA\Plus_Scale_project\scale\0625test\main.c	263;"	f	line:263	signature:(void)
+RDA_isr	D:\NOMURA\Plus_Scale_project\scale\0625test\main.c	254;"	f	line:254	signature:(void)
+RE	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	120;"	m	line:120	union:re_pin_union
+RX1	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	71;"	m	line:71	struct:rc_pin_union::rc_pin_map
+TIMER0_isr	D:\NOMURA\Plus_Scale_project\scale\0625test\main.c	243;"	f	line:243	signature:(void)
+TRISA	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	28;"	v	line:28
+TRISB	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	52;"	v	line:52
+TRISC	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	76;"	v	line:76
+TRISD	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	100;"	v	line:100
+TRISE	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	124;"	v	line:124
+TS02_buff	D:\NOMURA\Plus_Scale_project\scale\0625test\main.c	17;"	v	line:17	file:
+TS02_buff_count	D:\NOMURA\Plus_Scale_project\scale\0625test\main.c	18;"	v	line:18	file:
+TX1	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	70;"	m	line:70	struct:rc_pin_union::rc_pin_map
+WPUC::0b00000000	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	83;"	d	line:83
+WPUD::0b00000000	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	107;"	d	line:107
+WUPE::0b00000000	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	131;"	d	line:131
+buff_count	D:\NOMURA\Plus_Scale_project\scale\0625test\main.c	9;"	v	line:9	file:
+clear_TS02_buff	D:\NOMURA\Plus_Scale_project\scale\0625test\main.c	113;"	f	line:113	signature:(void)
+clear_pre_buff	D:\NOMURA\Plus_Scale_project\scale\0625test\main.c	103;"	f	line:103	signature:(void)
+clear_scale_buff	D:\NOMURA\Plus_Scale_project\scale\0625test\main.c	78;"	f	line:78	signature:(void)
+clear_send_buff	D:\NOMURA\Plus_Scale_project\scale\0625test\main.c	88;"	f	line:88	signature:(void)
+convert_data	D:\NOMURA\Plus_Scale_project\scale\0625test\main.c	147;"	f	line:147	signature:(void)
+count	D:\NOMURA\Plus_Scale_project\scale\0625test\main.c	14;"	v	line:14	file:
+data_count	D:\NOMURA\Plus_Scale_project\scale\0625test\main.c	13;"	v	line:13	file:
+debug	D:\NOMURA\Plus_Scale_project\scale\0625test\main.c	60;"	f	line:60	signature:(void)
+debug_packet	D:\NOMURA\Plus_Scale_project\scale\0625test\main.c	67;"	f	line:67	signature:(void)
+def_TRIS_A::0b00000000	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	34;"	d	line:34
+def_TRIS_B::0b00000000	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	58;"	d	line:58
+def_TRIS_C::0b00000000	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	82;"	d	line:82
+def_TRIS_D::0b00000000	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	106;"	d	line:106
+def_TRIS_E::0b00000000	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	130;"	d	line:130
+def_TS02_size::30	D:\NOMURA\Plus_Scale_project\scale\0625test\main.c	16;"	d	line:16	file:
+def_WPUA::0b00000000	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	35;"	d	line:35
+def_WPUB::0b00000000	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	59;"	d	line:59
+eeprom_read_string	D:\NOMURA\Plus_Scale_project\scale\0625test\main.c	284;"	f	line:284	signature:(unsigned int8 addr, unsigned char* str,unsigned int8 len)
+eeprom_write_string	D:\NOMURA\Plus_Scale_project\scale\0625test\main.c	275;"	f	line:275	signature:(unsigned int8 addr,unsigned char*str)
+err	D:\NOMURA\Plus_Scale_project\scale\0625test\main.c	23;"	v	line:23	file:
+get_id	D:\NOMURA\Plus_Scale_project\scale\0625test\main.c	123;"	f	line:123	signature:(void)
+i	D:\NOMURA\Plus_Scale_project\scale\0625test\main.c	105;"	l	line:105
+i	D:\NOMURA\Plus_Scale_project\scale\0625test\main.c	115;"	l	line:115
+i	D:\NOMURA\Plus_Scale_project\scale\0625test\main.c	149;"	l	line:149
+i	D:\NOMURA\Plus_Scale_project\scale\0625test\main.c	286;"	l	line:286
+i	D:\NOMURA\Plus_Scale_project\scale\0625test\main.c	80;"	l	line:80
+i	D:\NOMURA\Plus_Scale_project\scale\0625test\main.c	90;"	l	line:90
+main	D:\NOMURA\Plus_Scale_project\scale\0625test\main.c	295;"	f	line:295	signature:(void)
+n	D:\NOMURA\Plus_Scale_project\scale\0625test\main.c	151;"	l	line:151
+n	D:\NOMURA\Plus_Scale_project\scale\0625test\main.c	49;"	l	line:49
+noused3	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	115;"	m	line:115	struct:re_pin_union::re_pin_map
+noused4	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	116;"	m	line:116	struct:re_pin_union::re_pin_map
+noused5	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	117;"	m	line:117	struct:re_pin_union::re_pin_map
+noused6	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	118;"	m	line:118	struct:re_pin_union::re_pin_map
+noused6	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	22;"	m	line:22	struct:ra_pin_union::ra_pin_map
+noused6	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	46;"	m	line:46	struct:rb_pin_union::rb_pin_map
+noused7	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	119;"	m	line:119	struct:re_pin_union::re_pin_map
+noused7	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	23;"	m	line:23	struct:ra_pin_union::ra_pin_map
+noused7	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	47;"	m	line:47	struct:rb_pin_union::rb_pin_map
+pre_buff	D:\NOMURA\Plus_Scale_project\scale\0625test\main.c	10;"	v	line:10	file:
+pre_buff_count	D:\NOMURA\Plus_Scale_project\scale\0625test\main.c	11;"	v	line:11	file:
+ra_pin_map	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	15;"	s	line:15	union:ra_pin_union
+ra_pin_union	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	14;"	u	line:14
+rb_pin_map	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	39;"	s	line:39	union:rb_pin_union
+rb_pin_union	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	38;"	u	line:38
+rc_pin_map	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	63;"	s	line:63	union:rc_pin_union
+rc_pin_union	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	62;"	u	line:62
+rd_pin_map	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	87;"	s	line:87	union:rd_pin_union
+rd_pin_union	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	86;"	u	line:86
+re_pin_map	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	111;"	s	line:111	union:re_pin_union
+re_pin_union	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	110;"	u	line:110
+scale_buff	D:\NOMURA\Plus_Scale_project\scale\0625test\main.c	3;"	v	line:3	file:
+scale_buff_count	D:\NOMURA\Plus_Scale_project\scale\0625test\main.c	4;"	v	line:4	file:
+scale_data_ready	D:\NOMURA\Plus_Scale_project\scale\0625test\main.c	5;"	v	line:5
+send	D:\NOMURA\Plus_Scale_project\scale\0625test\main.c	6;"	v	line:6
+send_buff	D:\NOMURA\Plus_Scale_project\scale\0625test\main.c	8;"	v	line:8	file:
+send_period	D:\NOMURA\Plus_Scale_project\scale\0625test\main.c	22;"	v	line:22
+seq_num	D:\NOMURA\Plus_Scale_project\scale\0625test\main.c	20;"	v	line:20	file:
+si8_PORTA	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	25;"	m	line:25	union:ra_pin_union
+si8_PORTB	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	49;"	m	line:49	union:rb_pin_union
+si8_PORTC	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	73;"	m	line:73	union:rc_pin_union
+si8_PORTD	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	97;"	m	line:97	union:rd_pin_union
+si8_PORTE	D:\NOMURA\Plus_Scale_project\scale\0628\scale.h	121;"	m	line:121	union:re_pin_union
+sound	D:\NOMURA\Plus_Scale_project\scale\0625test\main.c	45;"	f	line:45	signature:(int s, int8 t)
+u	D:\NOMURA\Plus_Scale_project\scale\0625test\main.c	150;"	l	line:150
+wireless_send	D:\NOMURA\Plus_Scale_project\scale\0625test\main.c	26;"	f	line:26	signature:(void)
